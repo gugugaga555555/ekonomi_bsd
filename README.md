@@ -1,0 +1,2 @@
+# ekonomi_bsd
+hio
